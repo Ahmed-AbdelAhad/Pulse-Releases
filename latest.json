@@ -1,11 +1,11 @@
 {
-  "version": "v0.1.9",
-  "notes": "Pulse Clinic Release v0.1.9\n- New features, optimizations, and security updates.",
-  "pub_date": "2026-08-26T09:14:30.672Z",
+  "version": "v0.2.0",
+  "notes": "Pulse Clinic Release v0.2.0\n- New features, optimizations, and security updates.",
+  "pub_date": "2026-08-26T09:27:20.861Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/Ahmed-AbdelAhad/Pulse-Releases/releases/download/v0.1.9/pulse_0.1.9_x64-setup.exe"
+      "url": "https://github.com/Ahmed-AbdelAhad/Pulse-Releases/releases/download/v0.2.0/pulse_0.2.0_x64-setup.exe"
     }
   }
 }
